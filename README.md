@@ -1,9 +1,9 @@
 # aws-pricelist-to-excel
-A simple excel spreadsheet that downloads aws pricelists.
-This file does not replace the official pricing tool. It is intended just to help you to get AWS prices in a spreadsheet.
-For official prices please **always** refer to the official pricing calculator at https://calculator.aws
+This file allows you to download AWS prices into an Excel Spreadsheet.
+It does not replace the official pricing tool; it is intended to help you to get AWS prices in a spreadsheet, without copying and pasting from the pricing page.
+For official prices and bundles please **always** refer to the official pricing calculator at https://calculator.aws
 # How to use it 
-1. Open the file and enable Macros
+1. Open the file and enable Macros (you can inspect the code before running it)
 2. Select the Service you are interested in
 3. Select the region
 4. Click the download button
